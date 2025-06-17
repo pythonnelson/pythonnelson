@@ -35,8 +35,8 @@ With a strong background in full-stack development, I specialize in building mod
 
 ## 🌐 Connect With Me
 
-- [🔗 Portfolio Website](https://your-portfolio-url.com)  
-- [💼 LinkedIn](https://www.linkedin.com/in/your-linkedin-handle)
+- [🔗 Portfolio Website](https://nsbkargbo.vercel.app)  
+- [💼 LinkedIn](https://www.linkedin.com/in/isaacnsbkargbo)
 
 ---
 
