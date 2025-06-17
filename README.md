@@ -54,6 +54,7 @@ With a strong background in full-stack development, I specialize in building mod
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" alt="Netlify"/>
   <img src="https://img.shields.io/badge/Railway-000?logo=railway&logoColor=white&style=for-the-badge" alt="Railway"/>
   <img src="https://img.shields.io/badge/AI-111?style=for-the-badge&logo=OpenAI&logoColor=white" alt="AI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" alt="Iconic" />
 </p>
 
 ---
