@@ -6,7 +6,9 @@ I'm a passionate and curious **Software Developer** with a strong drive to build
 
 ## 💡 About Me
 
-With a strong background in full-stack development, I specialize in building modern web applications using both backend and frontend technologies. I enjoy working across the stack and thrive in environments where learning and collaboration are key.
+I'm a proud **Sierra Leonean** and a passionate **Software Developer** who loves creating beautiful apps for beautiful people. With a strong background in full-stack development, I specialize in building modern web applications using both backend and frontend technologies.
+
+I enjoy working across the stack and thrive in environments where learning, collaboration, and innovation are key. For me, software is not just code—it's a creative tool for making meaningful experiences that people enjoy.
 
 - 💻 Full-stack developer focused on performance, accessibility, and clean code  
 - 🚀 Always exploring new tools and best practices in web development  
