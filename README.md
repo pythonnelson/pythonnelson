@@ -33,6 +33,7 @@ I enjoy working across the stack and thrive in environments where learning, coll
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" alt="Prisma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" height="40" alt="DjangoRest" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trpc/trpc-original.svg" height="40" alt="trpc" />
 </p>
 
 ### 🛢️ Databases & Cloud
