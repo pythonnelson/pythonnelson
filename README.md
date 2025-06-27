@@ -58,6 +58,7 @@ I enjoy working across the stack and thrive in environments where learning, coll
   <img src="https://img.shields.io/badge/Railway-000?logo=railway&logoColor=white&style=for-the-badge" alt="Railway"/>
   <img src="https://img.shields.io/badge/AI-111?style=for-the-badge&logo=OpenAI&logoColor=white" alt="AI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" height="40" alt="Iconic" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </p>
 
 ---
